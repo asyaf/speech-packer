@@ -9,5 +9,4 @@ pip install SpeechRecognition
 ```
 
 Based on:
-
-https://packaging.python.org/tutorials/packaging-projects/
+https://realpython.com/python-speech-recognition/
